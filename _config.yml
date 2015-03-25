@@ -10,7 +10,7 @@ title:            Transforming the Afro-Caribbean World
 tagline:          'Digital Methods Mini-Site'
 description:      'Notes on sources and methods'
 url:              http://umd-mith.github.io/taw_workshop
-baseurl:          http://umd-mith.github.io/taw_workshop
+baseurl:          /taw_workshop/
 
 author:
   name:           'Trevor Muñoz'
