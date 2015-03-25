@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Transforming the Afro-Caribbean World
 tagline:          'Digital Methods Mini-Site'
-description:      'Notes on sources and methods'
+description:      'Notes on digital sources and methods for a planning workshop discussing a potential large-scale effort to explore Afro-Caribbean labor, migration, and the Panama Canal'
 url:              http://umd-mith.github.io/taw_workshop
 baseurl:          /taw_workshop/
 
