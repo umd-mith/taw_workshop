@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            TAW
-tagline:          Digital Methods
+title:            Transforming the Afro-Caribbean World
+tagline:          Digital Methods Mini-Site
 url:              http://getpoole.com
 paginate:         1
 baseurl:          http://umd-mith.github.io/taw_workshop/
