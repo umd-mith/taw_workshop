@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            TAW
+tagline:          Digital Methods
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /
+baseurl:          http://umd-mith.github.io/taw_workshop/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Trevor Muñoz
+  url:            https://twitter.com/trevormunoz
+  email:          tmunoz@umd.edu
 
 # Custom vars
 version:          1.0.0
