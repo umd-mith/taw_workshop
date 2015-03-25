@@ -10,3 +10,7 @@ dd {
 ul {
     list-style-type: none;
 }
+
+.post-title {
+    padding-top: 1rem;
+}
