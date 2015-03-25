@@ -1,4 +1,4 @@
-Transforming the Afro-Caribbean World: Digital Methods Mini-Site
+Transforming the Afro-Carribean World: Digital Methods Mini-Site
 ================================================
 
 Created for a workshop held at the Maryland Institute for Technology in the Humanities (MITH), 26-27 March, 2015.
