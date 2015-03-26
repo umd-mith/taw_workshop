@@ -7,8 +7,14 @@ title: Downloads
 
 <dl>
     <dt id="data-essays"><a href="https://s3.amazonaws.com/mith-taw/Essay_Contest_texts.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Essay_Contest_texts.tar.gz</a></dt>
-    <dd>Plain text files of Essay Contest materials. Created with Tesseract Open Source OCR Engine v3.02.02 with Leptonica</dd> 
+    <dd>Plain text files of Essay Contest materials. Created with Tesseract Open Source OCR Engine v3.02.02 with Leptonica</dd>
+
+    <dt id="data-books"><a href="https://s3.amazonaws.com/mith-taw/Books_texts.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Books_texts.tar.gz</a></dt>
+    <dd>Plain text files of public domain books related to the Panama Canal. Created with Tesseract Open Source OCR Engine v3.02.02 with Leptonica</dd>  
 
     <dt id="data-photo-metal"><a href="https://s3.amazonaws.com/mith-taw/Photo-Metal_Check_transcriptions.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Photo-Metal_Check_transcriptions.tar.gz</a></dt>
-    <dd>Transcription of information about canal laborers from "photo-metal check applications" into interlinked comma-separated value (CSV) files according to a bespoke organizational scheme.</dd>   
+    <dd>Transcription of information about canal laborers from "photo-metal check applications" into interlinked comma-separated value (CSV) files according to a bespoke organizational scheme.</dd> 
+
+    <dt id="data-tables"><a href="https://s3.amazonaws.com/mith-taw/1912_Census_Report_Tables.tgz"><i class="fa fa-file-archive-o fa-4x"></i> 1912_Census_Report_Tables.tgz</a></dt>
+    <dd>Comma-separated value (CSV) and Microsoft Excel files created from tables in the 1912 United States Census</dd>   
 </dl>
