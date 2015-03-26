@@ -15,6 +15,9 @@ title: Downloads
     <dt id="data-news"><a href="https://s3.amazonaws.com/mith-taw/Newspaper_texts.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Newspaper_texts.tar.gz</a></dt>
     <dd>Plain text files of <em>Canal Record</em> Newspaper volumes from 1907-1921. Created with Tesseract Open Source OCR Engine v3.02.02 with Leptonica</dd>
 
+    <dt id="data-topics"><a href="https://s3.amazonaws.com/mith-taw/TAW_topic_models.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Newspaper_texts.tar.gz</a></dt>
+    <dd>Statistical topic models built from digitized texts collected by the TAW project</dd>
+
     <dt id="data-photo-metal"><a href="https://s3.amazonaws.com/mith-taw/Photo-Metal_Check_transcriptions.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Photo-Metal_Check_transcriptions.tar.gz</a></dt>
     <dd>Transcription of information about canal laborers from "photo-metal check applications" into interlinked comma-separated value (CSV) files according to a bespoke organizational scheme.</dd> 
 
