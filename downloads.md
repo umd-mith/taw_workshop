@@ -23,6 +23,7 @@ title: Downloads
     <dd>Statistical topic models built from digitized texts collected by the TAW project</dd>
 
     <dt id="data-photo-metal"><a href="https://s3.amazonaws.com/mith-taw/Photo-Metal_Check_transcriptions.tar.gz"><i class="fa fa-file-archive-o fa-4x"></i> Photo-Metal_Check_transcriptions.tar.gz</a></dt>
+    <dt><a href="https://s3.amazonaws.com/mith-taw/Photo-Metal_Check_transcriptions.zip"><i class="fa fa-file-archive-o fa-4x"></i> Photo-Metal_Check_transcriptions.zip</a></dt>
     <dd>Transcription of information about canal laborers from "photo-metal check applications" into interlinked comma-separated value (CSV) files according to a bespoke organizational scheme.</dd> 
 
     <dt id="data-tables"><a href="https://s3.amazonaws.com/mith-taw/1912_Census_Report_Tables.tgz"><i class="fa fa-file-archive-o fa-4x"></i> 1912_Census_Report_Tables.tgz</a></dt>
