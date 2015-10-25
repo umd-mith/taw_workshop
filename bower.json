@@ -1,0 +1,23 @@
+{
+  "name": "taw_workshop",
+  "version": "0.2.0",
+  "homepage": "https://github.com/umd-mith/taw_workshop",
+  "authors": [
+    "Trevor Muñoz <tmunoz@umd.edu>"
+  ],
+  "description": "Transforming the Afro-Caribbean World: Digital Methods Mini-Site",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
